@@ -1,2 +1,3 @@
 # Python
-Python serüvenin'de basit proje örnekleri
+Simple project examples in Python adventure
+
